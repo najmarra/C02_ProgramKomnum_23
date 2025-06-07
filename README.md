@@ -15,7 +15,7 @@ Carilah nilai ao, a1, bo, dan semua akar x dengan menggunakan metoda faktorisasi
 # Metoda Faktorisasi 
 `` def persamaan(equation_str) ``
 
-Fungsi untuk memisahkan koefisiaen dari persamaan yang diberikan oleh pengguna.
+Fungsi untuk memisahkan koefisien dari persamaan yang diberikan oleh pengguna.
 
 `` def faktorisasi(A2, A1, A0) ``
 
