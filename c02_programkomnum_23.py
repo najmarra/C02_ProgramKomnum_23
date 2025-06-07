@@ -15,7 +15,7 @@ def parse_equation_sympy(equation_str):
     expr = sympify(equation_str)
     poly = Poly(expr, x)
     coeffs = poly.all_coeffs()
-    return coeffs
+    return coeffs 
 
 def faktorisasi(A2, A1, A0):
     results = []
