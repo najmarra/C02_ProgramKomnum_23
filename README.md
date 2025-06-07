@@ -6,12 +6,11 @@
 # No 23
 Soal
 
-`` 
 Diketahui f(x) = x**3 + 4*x**2 - 59*x - 126
-Carilah nilai ao, a1, bo, dan semua akar x dengan menggunakan metoda 
-faktorisasi. 
+
+Carilah nilai ao, a1, bo, dan semua akar x dengan menggunakan metoda faktorisasi. 
+
 [Lakukan iterasi hingga iterasi ke-3] 
-``
 
 # Metoda Faktorisasi 
 `` def persamaan(equation_str) ``
@@ -28,13 +27,17 @@ Fungsi untuk mencari nilai akar dari persamaan yang diberikan pengguna. Hasil ak
 
 Hasil 
 
-``
 Hasil Iterasi 1: b0 = 0, a1 = 4, a0 = -59
+
 Hasil Iterasi 2: b0 = 2.14, a1 = 1.86, a0 = -63.0
+
 Hasil Iterasi 3: b0 = 2.00, a1 = 2.00, a0 = -63.0
 
 Akar-akar persamaan dari faktorisasi:
+
 Akar 1: -2
+
 Akar 2: -9
+
 Akar 3: 7 
-``
+
