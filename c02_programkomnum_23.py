@@ -59,7 +59,7 @@ def akar(b0, a1, a0):
 
 # Input
 input_user = input("Masukkan persamaan (misal: f(x) = x**3 + 2*x**2 + 3*x + 4): ")
-a3, A2, A1, A0 =persamaan(input_user)
+a3, A2, A1, A0 = persamaan(input_user)
 
 iterasi = faktorisasi(A2, A1, A0)
 
