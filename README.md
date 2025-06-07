@@ -6,7 +6,7 @@
 # No 23
 ``Soal``
 
-Diketahui f(x) = x**3 + 4*x**2 - 59*x - 126
+Diketahui f(x) = x^3 + 4x^2 - 59^x - 126
 
 Carilah nilai ao, a1, bo, dan semua akar x dengan menggunakan metoda faktorisasi. 
 
